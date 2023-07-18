@@ -30,6 +30,7 @@ body{
     background-color: var(--primary-color);
     color: #FFF;
     margin: 10px 0px;
+    cursor: pointer;
 }
 .arrows{
     margin-left: 10px;
@@ -165,6 +166,7 @@ nav a i{
     background: none;
     color: #E02C6D;
     padding: 10px 20px;
+    cursor: pointer;
 }
 .button-div{
     text-align: end;
